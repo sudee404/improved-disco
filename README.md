@@ -18,7 +18,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
+<!--step0
 
 GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
 
@@ -38,7 +38,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -48,7 +48,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
 
 _Welcome to "Communicate using Markdown"! :wave:_
