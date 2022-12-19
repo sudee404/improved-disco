@@ -9,3 +9,11 @@
 
 ### Dealing with images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+---
+### How to build the project
+
+```
+$ git clone 'https://github.com/sudee404/improved-disco.git'
+Cloning into improved-disco
+```
