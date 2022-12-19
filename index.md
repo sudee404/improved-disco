@@ -22,5 +22,5 @@ Cloning into improved-disco
 Learning tasks
 - [x] Python
 - [x] Javascript
-- [] NodeJS
-- [] MongoDB
+- [ ] NodeJS
+- [ ] MongoDB
