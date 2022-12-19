@@ -17,3 +17,10 @@
 $ git clone 'https://github.com/sudee404/improved-disco.git'
 Cloning into improved-disco
 ```
+---
+
+Learning tasks
+- [x] Python
+- [x] Javascript
+- [] NodeJS
+- [] MongoDB
